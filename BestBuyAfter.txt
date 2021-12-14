@@ -1,0 +1,452 @@
+Privacy Policy — Here are the highlights.
+As a general rule, privacy policies are written by lawyers for lawyers. We hope you find these highlights to instead be a clear and transparent summary of our Privacy Policy, but our lawyers want us to remind you that the full, binding legalese of our Privacy Policy is below. And, California residents, there is specific legalese using definitions required by California law that you may review on our California Privacy Rights page.    
+
+With those disclaimers out of the way, here’s our most important highlight:   
+
+Best Buy’s purpose is to enrich lives through technology. We will only collect, use, or share your personally identifiable information for that purpose. And we don’t sell (as “sell” is traditionally defined) your personally identifiable information to anyone else.
+Personally identifiable information.
+We use the term “personally identifiable information” in these highlights to mean information that identifies, or that can reasonably be linked to, an actual natural person (that’s a real, named human being). We use the stand-alone term “information” to include all types of information, including personally identifiable information.
+
+Collection.
+We may collect information relevant to you in three ways. First, we may collect information directly from you. This could be as part of your interactions with Best Buy personnel, such as at our retail stores or during in-home visits, or when you provide information via our digital properties such as websites or mobile apps.
+
+Second, we will collect such information by observing behavior — either in the “real world” or through our digital properties like websites and mobile apps. Examples include security cameras at a retail store, our websites tracking visitor activities on our sites, or our digital properties collecting the characteristics of the visiting devices.
+
+Finally, we may obtain such information from independent third parties, independent of you.
+
+Use.
+We will use your information to meet your expectations and give you a great experience with Best Buy. For example, that could be to fulfill a purchase, provide a service, make our digital properties run better, or maintain our My Best Buy® program.
+
+You’ve probably seen in the news that the world (especially the internet) has too many fraudsters, hackers, and criminals. We use information we collect to protect our customers, Best Buy, and others from such bad actors.
+
+And remember when we said above that our purpose is to enrich lives through technology? In order to do that, we’ll want to tell you about technology and other products and services that we think you’ll find useful. That means we’ll use information to try figure out what will be useful (or just fun and interesting) to you and others, or we’ll develop new or different products and services. And if we think we’ve found something you might like, we’ll use information to place or send marketing messages to you that highlight our ideas, and we’ll monitor your response to that message.
+Sharing.
+If you post something on a public forum on one of our digital properties, it should come as no surprise to you that it may be viewed by the general public. 
+
+We may share your personally identifiable information with suppliers or business partners to fulfill your requests or perform on our behalf a contract that we have with you. 
+    
+Sometimes we share information with suppliers and business partners for internal Best Buy uses. The easiest examples of what we mean by this relate to information technology — they may be processing personally identifiable information, but we make sure we have contracts in place requiring that they only use the information in support of Best Buy. 
+
+We also may share personally identifiable information in an attempt to enforce our legal rights, in response to a request from law-enforcement authorities, and when we are required to do so by applicable law. Also, please note that if we think that sharing personally identifiable information is going to protect Best Buy or others from harm, that’s what we are going to do. 
+
+Finally, Best Buy comprises multiple corporations in the Best Buy family. These family members may share personally identifiable information with each other. And if one of these family members later goes off on their own, either after being acquired by a third party or merging with a third party, they will share personally identifiable information with that third party but subject to the applicable privacy policy.
+
+Have any questions about our privacy practices? Just ask!
+Whew! Even the “highlights” get a bit long. And the full, binding Privacy Policy follows, but we thought you’d appreciate our summary above. California residents, there’s also specific language and definitions required by California law. If you still have questions, here are a few ways you can contact us:
+
+Phone
+
+1-888-BEST BUY (1-888-237-8289)
+
+Email
+
+PrivacyManager@BestBuy.com
+
+Address
+
+Best Buy Corporate Campus
+
+Attn: Customer Care/Privacy
+
+7601 Penn Avenue South
+
+Richfield, MN 55423-3645
+
+Best Buy Privacy Policy.
+Your use of any of our digital properties (for simplicity, we will call our websites and mobile apps “digital properties” throughout this policy) is subject to the specific terms of use for that digital property.
+ 
+This Privacy Policy applies to Best Buy and Pacific Sales retail stores, other locations and events under the Best Buy name, and digital properties owned or operated by Best Buy Co, Inc. and any of our subsidiaries, unless that digital property or subsidiary has its own privacy policy (which would instead apply).
+Our California Privacy Rights page includes definitions and content consistent with California law. 
+Some products and services that Best Buy offers may have supplemental details about information collection, use, and sharing relating to those products and services. For example: 
+Best Buy Insignia Connect Privacy Policy supplement
+Best Buy Internet Powered by Starry Privacy Policy supplement
+ 
+
+What we collect:
+Information you give us.    
+
+We collect and store information you provide through our digital properties and in our stores.
+
+The information we collect from you includes things such as:    
+
+Name
+Postal address
+Email address
+Phone number
+Payment card number and other payment information
+Your My Best Buy® member ID
+ 
+In certain situations, we may also collect things like:
+
+Driver's license number (for example, if you return a product or apply for credit)
+Social Security Number (for example, if you apply for credit)
+Location information (such as when you ask us to tell you about nearby stores or use our digital properties)
+Demographic and lifestyle information (if you sign up for a registry or birthday list)
+Medical and health insurance information (for example, if you use offerings that collect medical information, such as Assured Living)
+Fingerprints (as required by law for fraud detection in connection with Best Buy’s product trade-in program)
+Survey responses 
+Information you give us about others.
+You may give us information about other people, such as the name and address of a gift recipient, or the name and contact information of someone who will pick up items for you at a store. We will only use this information for the specific reason you provide it.
+
+Information from other sources.
+We may receive information about you from other sources, including third parties that help us update, expand, and analyze our records and identify new customers, and provide products and services that may be of interest to you.
+
+Information collected automatically online.
+We collect information about your interactions with us including, for example:
+
+The type of device or browser you’re using
+Your IP address
+Your browsing behavior while on our website
+The URLs of the websites you visited before visiting our site (these are called “referring URLs”)
+IMEI/UDID (a numeric identifier for your mobile device)
+MAC address (another kind of numeric identifier for your mobile device)
+IDFA (Apple’s ID for advertising), a randomly generated number)s.
+Best Buy and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+
+Manage Flash cookies ›
+
+Learn more about managing cookies, Flash cookies, and more ›
+
+We may permit third-party service providers to collect and process some information from our digital properties. We may share personal information with those providers and may have similar arrangements with interest-based advertisers. We provide more information about interest-based ads below. Our digital properties are not designed to respond to “do not track” requests from browsers.
+
+Location information. 
+Some of our digital properties may collect your location to, for example, help you search for one of our stores, use special mobile features within some of our stores, or provide you with helpful messaging in our mobile app. We also may use this information to determine whether to provide you with content, information, and notices that may be required by law based on your location.
+
+Mobile devices often provide users with the ability to adjust settings related to location. If you do not want us to collect specific location information, you may modify the location services on your mobile device’s settings. Best Buy has no control over your device’s settings. And adjusting these settings does not completely eliminate the ability of others to develop location information about your device.
+
+Store cameras.
+Our stores may use cameras for asset protection and other operational purposes, such as measuring traffic patterns and protecting and improving our business.
+
+Reviews and other content you provide.
+Our websites offer publicly accessible blogs or community forums. Be aware that anyone who accesses these areas may read, collect, and use the information you provide.
+
+How we use the information we collect:
+Identifying you on our digital properties in order to customize your experience
+Fulfilling orders and requests for products, services, or information
+Processing refunds, returns, and exchanges
+Tracking and confirming online orders
+Delivering and installing products
+Managing our My Best Buy program
+Marketing and advertising products and services
+Conducting research and analysis
+Managing our My Best Buy Credit Card program, including taking applications and actions to enhance card usage and service
+Preventing and identifying fraud and other illegal activity
+Engaging in internal uses such as data analytics with the purpose of enhancing existing and creating new products and services
+Complying with and enforcing applicable legal requirements, contractual obligations (including our contractual obligations with you, such as through our My Best Buy program, if applicable, or digital properties’ terms of use), relevant industry standards, and our policies
+Interest-based advertising.
+You can opt out of interest-based advertising from third-party providers who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising at www.aboutads.info/choices.
+
+Learn more about interest-based advertising ›
+
+How we share your information.
+Best Buy does not exchange your personal information for monetary consideration. We share your information only in the ways we describe below. We may combine or share information among current or future Best Buy companies, including affiliates and subsidiaries. 
+
+We may share your information with third parties to perform services on our behalf such as:
+
+Fulfilling orders and delivering packages
+Scheduling and performing product installations
+Providing customer care and technical support, including servicing products
+Maintaining our My Best Buy program
+Sending Best Buy marketing communications and providing advertising services
+Personalizing the customer experience on our digital properties
+Fulfilling subscription services
+Conducting research and analysis
+Processing credit card payments
+Detecting fraud and other illegal activity
+ 
+We also may share personal information in connection with co-branded product or service offerings (including sharing personal information with business partners to validate offers). Additionally, we may share personal information in connection with financial products or services related to our business, such as private label credit cards or the lease-to-own program.  For example, when you apply for a Best Buy Credit Card, and while you have a Best Buy Credit Card, we share your personal information with our banking partners that issue the card.
+
+Sometimes we may be required to share personal information for legal reasons, for example, if we are required to do so by a regulation, court order, subpoena or other legal process. We may also share information when we believe it is necessary to comply with the law or to respond to a government request, or when we believe disclosure is necessary or appropriate to protect Best Buy, our customers, or others.
+
+We may share personal information in the event of a corporate sale, merger, acquisition, joint venture, reorganization, divestiture, dissolution, liquidation, or similar event. 
+
+How we protect your information.
+We use a variety of security measures designed, under a risk-based approach, to ensure the confidentiality of your information. However, as set forth in the applicable terms of use for each digital property, we cannot and do not guarantee the security of information transmitted to us.
+
+You also can do your part to help protect the information you provide to us. Create a strong password. Use that password only on our digital properties. And do not share your password with anyone — especially anyone claiming to work with us. We would never contact you and ask for your password — ever.
+
+Your choices.
+You may at any time:    
+
+Stop receiving marketing or promotional emails, direct mail, phone, and mobile marketing communications
+Update and correct your personal information
+Deactivate your account
+Request removal of information you post on our digital properties; in some cases, we may not be able to remove your content or personal information, in which case we will let you know if we are unable to do so and why
+ 
+
+To do any of these, let us know by one of these methods:    
+
+Follow the directions in a marketing email, direct mail, or mobile communication that you receive from us
+Provide your request and current contact information through one of the contact methods listed under “contact us” below
+ 
+Please note: Even if we are able to anonymize or make your content or information no longer visible, this does not ensure complete or comprehensive removal of your content or personal information from the internet.
+
+Protecting children's privacy.
+We do not knowingly solicit or collect personal information from children under the age of 13 without parental consent. If we learn that we have collected personal information from a child under age 13 without parental consent, we will promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the “How to contact us” section of this policy.
+
+Links to other websites.
+Our websites link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the website you are visiting.
+
+Social media features.
+Our website includes ways to interact and share using social media, through features such as a “thumbs up” button, “share this” button, or interactive mini-programs that run on our website (“widgets”). These features may collect information such as your IP address or the page you are visiting on our website and may set cookies to enable the feature to function properly. Social media features can be hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the social media company providing the feature.
+
+Privacy Policy updates.
+We may need to update our Privacy Policy as we and our customers grow and evolve. If we make material changes, we will notify you by email (sent to the email address specified in your account) or by means of posting a notice on this website prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
+
+How to contact us:
+Phone
+
+1-888-BEST BUY (1-888-237-8289)
+
+Email
+
+PrivacyManager@BestBuy.com
+
+Address
+
+Best Buy Corporate Campus
+
+Attn: Customer Care/Privacy
+
+7601 Penn Avenue South
+
+Richfield, MN 55423-3645
+
+Last Updated: December 31, 2019
+
+California residents:
+If you are a California resident and would like to learn more about your rights under California’s laws, or review a privacy policy consistent with the same, visit our California Privacy Rights page.
+
+Nevada residents:
+If you are a Nevada resident, you have the right to request that Best Buy not sell your personal information to third parties. To submit this request, please send us an email at EnterprisePrivacy@BestBuy.com. However, please note that, as stated in our Privacy Policy, Best Buy does not sell, rent, or trade your personal information to third parties.
+
+If you are a California resident, the information below may apply to you in addition to our Privacy Policy.
+This Statement uses certain terms that have the meanings given to them by the California Consumer Privacy Act.
+
+Collection and Disclosure.
+During the 12-month period prior to the effective date of this Addendum, we may have:
+
+a. Collected the following categories of personal information about you:
+
+Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as customer number, unique pseudonym, or user alias), email address, account name, Social Security number, driver’s license number, passport number, and other similar identifiers, physical characteristics or description, state identification card number, and signature
+Identifiers (Online): a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; other forms of persistent or probabilistic identifiers, and Internet Protocol address
+Other Financial, Medical, and Health Information: bank account number, credit card number, debit card number, insurance policy number, and other financial information, medical information, and health insurance information
+Information Related to Characteristics Protected Under California or Federal Law: characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, genetic information, disability, citizenship status, and military and veteran status
+Commercial Information: including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies
+Biometrics: biometric information
+Internet and Other Electronic Network Activity Information: including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements
+Geolocation Data
+Sensory Information: Audio, electronic, visual, thermal, and similar information
+Professional or Employment-Related Information
+Education Information
+Profile Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+b. Collected personal information about you for the following business or commercial purposes:
+
+Performing services you have purchased from or contracted for with us, including maintaining or servicing accounts (e.g., your My Best Buy account), as well as providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services
+Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+Short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+Detecting and responding to security incidents, protecting against and responding to malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+Debugging to identify and repair errors that impair existing intended functionality
+Undertaking internal research for technological development and demonstration
+Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us
+Customizing your experience on our digital properties
+Processing liability claims
+Complying with and enforcing applicable legal requirements, relevant industry standards and our policies
+c. Shared your personal information with the following categories of third parties:
+
+Our affiliates
+Our joint marketing partners
+Our business partners
+Social media networks
+Third-party marketing partners
+Government entities, including law enforcement
+d. Sold (as defined under California law) the following categories of personal information:
+
+Identifiers (online) associated with a device used to interact with our digital properties or advertisements (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology)
+Internet and other electronic network activity information associated with a device used to interact with Digital Properties or advertisements
+
+We do not sell the personal information of consumers under the age of 16 if we have actual knowledge of the individual’s age.
+
+We do not sell personal information as the term is traditionally understood, versus the definition under the CCPA — for example, we do not exchange for money personal information to data brokers or third parties for their marketing purposes independent of us.
+
+e. Disclosed for a business purpose the following categories of personal information about you:
+
+Identifiers
+Identifiers (Online)
+Other Financial, Medical and Health Information
+Information Related to Characteristics Protected Under California or Federal Law
+Commercial Information
+Biometrics
+Internet and Other Electronic Network Activity Information
+Geolocation Data
+Sensory Information
+Professional or Employment-Related Information
+Education Information
+Profile Inferences
+f. Collected personal information about you from the following sources:
+
+You
+Best Buy
+Device(s) You Used
+Service Providers
+g. Information we share with third parties:
+
+3rd Party Categories
+Personal Information Categories	Our Affiliates	Our Joint Marketing Partners	Our Business Partners	Social Media Networks	Third-party Marketing Partners	Government Entities, Including Law Enforcement*See Disclaimer below
+Identifiers	XYes	XYes	XYes	XYes	XYes	XYes
+Identifiers (Online)	XYes	No	No	No	XYes	XYes
+Other Financial, Medical and Health Information	No	No	No	No	No	XYes
+Information Related to Characteristics Protected Under California or Federal Law	No	No	No	No	No	XYes
+Commerical Information	XYes	XYes	XYes	No	No	XYes
+Biometrics	No	No	No	No	No	XYes
+Internet and Other Electronic Network Activity Information	XYes	No	No	No	XYes	XYes
+Geolocation Data	No	No	No	No	No	XYes
+Sensory Information	No	No	No	No	No	XYes
+Professional or Employment Related Information	No	No	No	No	No	XYes
+Education Information	No	No	No	No	No	XYes
+Profile Inferences	XYes	No	No	No	No	XYes
+*Best Buy shares Personal Information with government entities, including law enforcement, only in the following circumstances: (1) when required to do so as a matter of law; (2) to assist in the investigation of a potential crime impacting Best Buy, its employees, its customers, or the communities we serve; or (3) when required in response to legal process (e.g., subpoena, warrant).
+
+California Consumer Privacy Rights. 
+You have certain choices regarding our use and disclosure of your personal information, as described below.
+
+Access: You have the right to request, twice in a 12-month period, that we disclose to you the personal information related to you we have collected during the past 12 months. This may include:
+The categories and specific pieces of personal information we have collected about you
+The categories of sources from which we collected the personal information
+The business or commercial purpose for which we collected or sold the personal information
+The categories of third parties with whom we shared the personal information
+The categories of personal information about you that we sold or disclosed for a business purpose, and the categories of third parties to whom we sold or disclosed that information for a business purpose
+Deletion: You have the right to request that we delete certain personal information we have collected from you. Exceptions apply.
+Opt-Out of Sale: You have the right to opt-out of the sale of your personal information.
+Shine the Light Request: You also may have the right to request that we provide you with (a) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (b) the identity of those third parties.
+How to Submit a Request. 
+Submit an access request, or call us at 1-888-BEST BUY (1-888-237-8289).
+Submit a deletion request, or call us at 1-888-BEST BUY (1-888-237-8289). 
+To submit a Shine the Light Request, email us at CaliforniaPrivacyRights@bestbuy.com. 
+More information on opting out of the sale of your personal information is available here.
+
+Verifying Requests.
+To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. If you have an account with us, we may verify your identity by requiring you to sign in to your account. If you request access to or deletion of your personal information and do not sign in to an account with us, we require you to provide the following information: name, email address, phone number, and postal address. In addition, if you do not have an account and you ask us to provide you with specific pieces of personal information, we reserve the option to require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request. If you designate an authorized agent to make an access, deletion or opt-out of sale request on your behalf (1) we may require you to provide the authorized agent written permission to do so, and (2) for access and deletion requests, we may require you to verify your own identity directly with us (as described above).
+
+Additional Information.
+If you choose to exercise any of your rights under the CCPA, you have the right not to receive, and will not receive, discriminatory treatment by us. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request. Employees and contractors are provided notice via different statements.
+
+This Statement is available in alternative formats upon request. Please contact PrivacyManager@BestBuy.com or 1-888-BEST BUY (1-888-237-8289) to request this Statement in an alternative format. 
+
+Last Updated: 9/4/20
+
+If you are a California resident, the information below may apply to you in addition to our Privacy Policy.
+This Statement uses certain terms that have the meanings given to them by the California Consumer Privacy Act.
+
+Collection and Disclosure.
+During the 12-month period prior to the effective date of this Addendum, we may have:
+
+a. Collected the following categories of personal information about you:
+
+Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as customer number, unique pseudonym, or user alias), email address, account name, Social Security number, driver’s license number, passport number, and other similar identifiers, physical characteristics or description, state identification card number, and signature
+Identifiers (Online): a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; other forms of persistent or probabilistic identifiers, and Internet Protocol address
+Other Financial, Medical, and Health Information: bank account number, credit card number, debit card number, insurance policy number, and other financial information, medical information, and health insurance information
+Information Related to Characteristics Protected Under California or Federal Law: characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, genetic information, disability, citizenship status, and military and veteran status
+Commercial Information: including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies
+Biometrics: biometric information
+Internet and Other Electronic Network Activity Information: including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements
+Geolocation Data
+Sensory Information: Audio, electronic, visual, thermal, and similar information
+Professional or Employment-Related Information
+Education Information
+Profile Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes
+b. Collected personal information about you for the following business or commercial purposes:
+
+Performing services you have purchased from or contracted for with us, including maintaining or servicing accounts (e.g., your My Best Buy account), as well as providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services
+Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+Short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+Detecting and responding to security incidents, protecting against and responding to malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+Debugging to identify and repair errors that impair existing intended functionality
+Undertaking internal research for technological development and demonstration
+Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us
+Customizing your experience on our digital properties
+Processing liability claims
+Complying with and enforcing applicable legal requirements, relevant industry standards and our policies
+c. Shared your personal information with the following categories of third parties:
+
+Our affiliates
+Our joint marketing partners
+Our business partners
+Social media networks
+Third-party marketing partners
+Government entities, including law enforcement
+d. Sold (as defined under California law) the following categories of personal information:
+
+Identifiers (online) associated with a device used to interact with our digital properties or advertisements (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology)
+Internet and other electronic network activity information associated with a device used to interact with Digital Properties or advertisements
+
+We do not sell the personal information of consumers under the age of 16 if we have actual knowledge of the individual’s age.
+
+We do not sell personal information as the term is traditionally understood, versus the definition under the CCPA — for example, we do not exchange for money personal information to data brokers or third parties for their marketing purposes independent of us.
+
+e. Disclosed for a business purpose the following categories of personal information about you:
+
+Identifiers
+Identifiers (Online)
+Other Financial, Medical and Health Information
+Information Related to Characteristics Protected Under California or Federal Law
+Commercial Information
+Biometrics
+Internet and Other Electronic Network Activity Information
+Geolocation Data
+Sensory Information
+Professional or Employment-Related Information
+Education Information
+Profile Inferences
+f. Collected personal information about you from the following sources:
+
+You
+Best Buy
+Device(s) You Used
+Service Providers
+g. Information we share with third parties:
+
+3rd Party Categories
+Personal Information Categories	Our Affiliates	Our Joint Marketing Partners	Our Business Partners	Social Media Networks	Third-party Marketing Partners	Government Entities, Including Law Enforcement*See Disclaimer below
+Identifiers	XYes	XYes	XYes	XYes	XYes	XYes
+Identifiers (Online)	XYes	No	No	No	XYes	XYes
+Other Financial, Medical and Health Information	No	No	No	No	No	XYes
+Information Related to Characteristics Protected Under California or Federal Law	No	No	No	No	No	XYes
+Commerical Information	XYes	XYes	XYes	No	No	XYes
+Biometrics	No	No	No	No	No	XYes
+Internet and Other Electronic Network Activity Information	XYes	No	No	No	XYes	XYes
+Geolocation Data	No	No	No	No	No	XYes
+Sensory Information	No	No	No	No	No	XYes
+Professional or Employment Related Information	No	No	No	No	No	XYes
+Education Information	No	No	No	No	No	XYes
+Profile Inferences	XYes	No	No	No	No	XYes
+*Best Buy shares Personal Information with government entities, including law enforcement, only in the following circumstances: (1) when required to do so as a matter of law; (2) to assist in the investigation of a potential crime impacting Best Buy, its employees, its customers, or the communities we serve; or (3) when required in response to legal process (e.g., subpoena, warrant).
+
+California Consumer Privacy Rights. 
+You have certain choices regarding our use and disclosure of your personal information, as described below.
+
+Access: You have the right to request, twice in a 12-month period, that we disclose to you the personal information related to you we have collected during the past 12 months. This may include:
+The categories and specific pieces of personal information we have collected about you
+The categories of sources from which we collected the personal information
+The business or commercial purpose for which we collected or sold the personal information
+The categories of third parties with whom we shared the personal information
+The categories of personal information about you that we sold or disclosed for a business purpose, and the categories of third parties to whom we sold or disclosed that information for a business purpose
+Deletion: You have the right to request that we delete certain personal information we have collected from you. Exceptions apply.
+Opt-Out of Sale: You have the right to opt-out of the sale of your personal information.
+Shine the Light Request: You also may have the right to request that we provide you with (a) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (b) the identity of those third parties.
+How to Submit a Request. 
+Submit an access request, or call us at 1-888-BEST BUY (1-888-237-8289).
+Submit a deletion request, or call us at 1-888-BEST BUY (1-888-237-8289). 
+To submit a Shine the Light Request, email us at CaliforniaPrivacyRights@bestbuy.com. 
+More information on opting out of the sale of your personal information is available here.
+
+Verifying Requests.
+To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. If you have an account with us, we may verify your identity by requiring you to sign in to your account. If you request access to or deletion of your personal information and do not sign in to an account with us, we require you to provide the following information: name, email address, phone number, and postal address. In addition, if you do not have an account and you ask us to provide you with specific pieces of personal information, we reserve the option to require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request. If you designate an authorized agent to make an access, deletion or opt-out of sale request on your behalf (1) we may require you to provide the authorized agent written permission to do so, and (2) for access and deletion requests, we may require you to verify your own identity directly with us (as described above).
+
+Additional Information.
+If you choose to exercise any of your rights under the CCPA, you have the right not to receive, and will not receive, discriminatory treatment by us. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request. Employees and contractors are provided notice via different statements.
+
+This Statement is available in alternative formats upon request. Please contact PrivacyManager@BestBuy.com or 1-888-BEST BUY (1-888-237-8289) to request this Statement in an alternative format. 
+
+Last Updated: 9/4/20
+

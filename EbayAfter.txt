@@ -1,0 +1,291 @@
+User Privacy Notice
+Search eBay Help...
+1.   Scope and updates of this User Privacy Notice
+2. Controller
+3.  Data protection officer and contact
+4.  What personal data we collect and process
+5.  Purposes and legal basis for data processing and categories of recipients
+6.  International data transfers
+7.  Storage duration and erasure
+8.  Rights as a data subject
+9.  Cookies & similar technologies
+10.  Data security
+11.  Other important information regarding data protection
+12. Regional and State Privacy Disclosures
+Previous User Privacy Notice
+In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights for you.
+
+This User Privacy Notice is effective from June 20, 2020. View the previous User Privacy Notice.
+
+Expand all
+1.   Scope and updates of this User Privacy Notice
+This User Privacy Notice applies to your use of this website and all eBay applications, services (including payment services), products and tools (collectively the "Services"), regardless of how you access or use these Services, including access via mobile devices and apps.
+
+Learn more about section 1
+ 
+2. Controller
+Which eBay group company is responsible for the collection and processing of your personal data in connection with the provision of the Services depends on how you use our Services.
+
+2.1 Use of the Services
+Depending on the region in which you are located, one of the following eBay group companies is responsible for the collection and processing of your personal data in connection with the provision of our Services (except payment services for sellers):
+
+USA: eBay Inc., 2025 Hamilton Avenue, San Jose, CA 95125, USA
+Canada: eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada
+EU: eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany. If you use the eBay Customer Guarantee offered in France, Italy or Spain, eBay Services S.à r.l., 22-24 Boulevard Royal, L-2449 Luxembourg is responsible for the data processing regarding this specific service
+United Kingdom: eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom
+India: eBay Singapore Services Private Limited, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315
+For all other countries: eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland
+2.2 Use of the payment services for sellers
+Depending on the region in which you are located and whether we provide our payment services there, the following eBay group companies are responsible for the collection and processing of your personal data in connection with the provision of our payment services to sellers:
+
+USA: eBay Commerce Inc., 2535 North First Street, San Jose, CA 95131, USA
+EU: eBay S.à.r.l., 25-27 Boulevard Royal, L-2449 Luxembourg
+UK: eBay Commerce UK Ltd., 1 More London Place, London SE1 2AF, United Kingdom
+Canada: eBay Commerce Canada Limited, 44 Chipman Hill, Suite 1000, Saint John NB E2L 2A9, Canada
+Australia: eBay Commerce Australia Pty. Ltd., Level 18, 1 York Street, Sydney NSW 2000, Australia
+As described in our Payments Terms of Use, your personal data may be processed by one or more of these companies depending on your location and the location of the eBay website on which a user completes a transaction with you.
+
+ 
+3.  Data protection officer and contact
+We have appointed data protection officers in several countries to oversee the protection of your personal data. If you have any questions about this User Privacy Notice or about data protection at eBay in general, you can contact the data protection officer responsible for your country at any time. You will find the contact details of your data protection officer in the list of our data protection officers in our eBay Privacy Center.
+
+Furthermore, if you have any questions or complaints regarding this User Privacy Notice, our global data protection principles (see section 6.1 Data transfers to eBay Inc. corporate family members under section 6. International data transfers below) or our handling of personal data, you can also contact the eBay Privacy Team or the controller who is responsible for the processing of your personal data at any time (for further information, see Controller above). This applies regardless of whether we have appointed a data protection officer in your country or not. You can find all necessary information and contact details in our eBay Privacy Center.
+
+ 
+4.  What personal data we collect and process  
+We collect your personal data when you use our Services, create a new eBay account, provide us with information via a web form, add or update information in your eBay account, participate in online community discussions or otherwise interact with us. We also collect personal data from other sources (such as other eBay Inc. corporate family members, credit agencies or bureaus, and other data brokers).
+
+Learn more about section 4
+ 
+
+5.  Purposes and legal basis for data processing and categories of recipients
+We process your personal data for various purposes and based on several different legal bases that allow this processing. For example, we process your personal data to provide and improve our Services, to provide you with a personalized user experience on this website, to contact you about your eBay account and our Services, to provide customer service, to provide you with personalized advertising and marketing communications, and to detect, prevent, mitigate and investigate fraudulent or illegal activity. We also share your information with third parties, including service providers acting on our behalf, for these purposes. In addition, we may share your personal data among eBay group companies in order to fulfil our contract with you under the User Agreement and, if applicable, the Payments Terms of Use.
+
+Learn more about section 5
+ 
+6.  International data transfers  
+Some recipients of your personal data are located outside your country or have offices in countries where data protection laws may provide a different level of protection than the laws in your country. When transferring personal data to such recipients, we provide appropriate safeguards.
+
+Learn more about section 6
+ 
+7.  Storage duration and erasure  
+Your personal data will be stored by us and our service providers in accordance with applicable data protection laws to the extent necessary for the processing purposes set out in this User Privacy Notice (see Purposes and legal basis for data processing and categories of recipients for more information on the processing purposes). Subsequently, we will delete your personal data in accordance with our data retention and deletion policy or take steps to properly render the data anonymous, unless we are legally obliged to keep your personal data longer (e.g. for legal compliance, tax, accounting or auditing purposes). In Europe, the retention periods are generally between 6 and 10 years (e.g. for contracts, notifications and business letters). As far as legally permissible or required, we restrict the processing of your data instead of deleting it (e.g. by restricting access to it). This applies in particular to cases where we may still need the data for the execution of the contract or for the assertion of or defense against legal claims, or where such retention is otherwise required or permitted by law. In these cases, the duration of the restriction of processing depends on the respective statutory limitation or retention periods. The data will be deleted after the relevant limitation or retention periods have expired.
+
+Learn more about section 7
+ 
+
+8.  Rights as a data subject
+ 
+Subject to possible restrictions under national law, as a data subject, you have the right to access, rectification, erasure, restriction of processing and data portability with regard to your personal data. In addition, you can withdraw your consent and object to our processing of your personal data on the basis of our legitimate interests. You can also lodge a complaint with a supervisory authority.
+
+Learn more about section 8
+Exercising your rights and managing your settings
+ 
+9.  Cookies & similar technologies  
+When you use our Services, we and selected third parties may use cookies and similar technologies to provide you with a better, faster and safer user experience or to show you personalized advertising. Cookies are small text files that are automatically created by your browser and stored on your device when you use the Services. You can find detailed information about our use of cookies and similar technologies and your choices in our User Cookie Notice.
+
+Learn more about section 9
+Your choices regarding cookies
+ 
+10.  Data security  
+We protect your personal data through technical and organizational security measures to minimize risks associated with data loss, misuse, unauthorized access and unauthorized disclosure and alteration. To this end we use firewalls and data encryption, for example, as well as physical access restrictions for our data centers and authorization controls for data access. You can find further information on our data security in our Security Center.
+
+ 
+11.  Other important information regarding data protection
+This section contains important additional information about the protection of personal data in connection with the use of our Services, including whether you are required to provide personal data.
+
+Learn more about section 11
+ 
+12. Regional and State Privacy Disclosures
+For additional regional disclosures for residents of certain U.S. states, including California, please review our State Privacy Disclosures page. For additional disclosures for specific regions or countries, including Brazil, please review our Privacy Disclosures page
+
+California Privacy Policy
+
+Effective date: July 1, 2020
+
+This California Privacy Policy is provided as a supplement to our User Privacy Notice and includes information on how you can exercise your rights under the California Consumer Privacy Act (“CCPA”). This California Privacy Policy does not apply to the personal information we collect from employees or job applicants.
+
+1.  Collection of personal information
+
+1.1  Categories of personal information that we collected about California consumers
+
+Identifiers, such as name, alias, postal address, unique personal identifier, online identifier, internet protocol (IP) address, email address, account name, social security number, driver’s license number, passport number or other similar identifiers.
+Customer Records, such as physical characteristics or description, telephone number, bank account number, credit card number, debit card number, or any other financial information.
+Personal Characteristics or Traits, such as demographic data.
+Customer Account Details / Commercial Information, such as records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Internet Usage Information, such as browsing history, search history, and information regarding a consumer’s interaction with our website, application or advertisement.
+Geolocation Data, such as physical location or movements and travel patterns.
+Sensory Data, such as audio recordings of customer service calls.
+Inferences derived from personal information, such as information about your interests or purchase preferences.
+Please note that we may not collect each of these categories about every consumer. To understand more about what personal information we collect, please review Section 4 of our User Privacy Notice.
+
+1.2  Categories of sources of personal information that we collect
+
+We receive personal information from a variety of sources, including directly from you, your devices, or from our partners. The categories of sources from which personal information is collected includes:
+
+You
+eBay customers
+eBay Companies and Affiliates
+Advertising networks
+Service providers (including Internet service providers or ISPs)
+Data analytics providers
+Government entities and other public sources
+Operating systems and platforms
+Social networks
+Data brokers and other data providers
+Vendors and suppliers
+Credit agencies or bureaus
+Other sources as listed in Section 4 of our User Privacy Notice
+1.3  Business or commercial purpose for collection
+
+To understand the purposes for which we collect personal information, please review Section 5 of our User Privacy Notice.
+
+2.  Categories of personal information disclosed for a business purpose
+
+We share personal information with service providers and other vendors. The following Table 2.1 lists the categories of personal information disclosed for a business purpose and the categories of recipients who have received this personal information. Please note that not every one of the following categories may apply to your personal information.
+
+
+Table 2.1 
+
+Category of Personal Information Disclosed for a Business Purpose
+
+Categories of Recipients 
+
+Identifiers
+Customer Records
+Personal Characteristics or Traits
+Customer Account Details / Commercial Information
+Internet Usage Information
+Geolocation Data
+Sensory Data
+Inferences derived from Personal Information
+Service providers
+Credit agencies (when required by law) 
+Participants in the eBay VeRO program 
+Financial institutions
+Government authorities and agencies
+ 
+
+ 
+
+3. Categories of personal information “sold”
+
+The following Table 3.1 lists the categories of personal information “sold” and the categories of recipients who have received this information. The CCPA’s definition of “sale” is broad and includes sharing practices common among online marketplaces. While, without your consent, eBay does not sell your personal information for money, we do share information for a variety of other purposes, such as to tailor your online experience or provide more relevant advertisements to you.
+
+We identify in the table below as a “sale” the categories of personal information that we disclosed to third parties for advertising purposes, which allows them to tailor your online experience, provide relevant content to you and measure its effectiveness. For more information about advertising, including how we bring customized ads and how you can control your information, please visit our AdChoice page.
+
+
+Table 3.1
+
+Category of Personal Information “Sold”
+
+Categories of Recipients 
+
+Identifiers
+Internet Usage Information
+Inferences derived from Personal Information
+Advertising networks
+ 
+
+4.  Children
+
+We do not knowingly collect, disclose, or sell the personal information of consumers under 16. According to our User Agreement, children under age 18 are not permitted to use our Services. If you are a parent or guardian and become aware that your child has provided us with personal information, please contact us and we will work with you to address the issue.
+
+5.  CCPA Rights
+
+The CCPA provides new rights to California consumers. These include rights to: access, deletion, opt-out, and non-discrimination. This section provides more information about each right and how California consumers can exercise these rights under the CCPA. We also encourage you to visit our Privacy Center Contact Page for more information on your rights and our practices.
+
+For eBay to fulfill your request, you must provide sufficient information for us to reasonably verify that you are the consumer from whom we collected the personal information. The information you send for us to verify your identity will be used for this purpose only. If we are unable to verify your identity or if we suspect fraudulent activity, we may decline to comply with your request. 
+
+We will make commercially reasonable efforts to identify your personal information that we collect, process, store, disclose and otherwise use and to respond to your requests. We reserve the right to charge a reasonable fee, or decline to act upon a request, if it is excessive or overly burdensome. In addition, we will not honor your requests to the extent that doing so would infringe upon our or any other person or party’s rights or conflict with applicable law. If we deny your request, we will explain the reasons in our response. 
+
+5.1  Right to access
+
+The right to access (also called a “request to know”)
+California consumers have the right to request that we disclose the personal information that we collect, use, disclose, and sell. This includes the right to request the categories of personal information we have collected about them, the categories of sources of personal information, the business or commercial purpose for collecting or selling personal information, the categories of third parties with whom we share or sell personal information, and the specific pieces of personal information we have collected.
+We try to fulfill access requests within 45 days of receiving the request. If we need more time or additional information to fulfill your request, we will write to let you know.
+How to exercise the right to access
+Registered eBay users with accounts in good standing
+If you are a registered eBay user with an account in good standing, you can request a copy of the data we hold about you at any time through your eBay account. We will verify your identity using your existing username and password prior to allowing you to make a request.
+You may click here to submit your request, or as outlined on our Privacy Center Contact Page, to submit a request from your eBay account:
+In My eBay, go to Account and select Personal information.
+Under Your eBay Data, click Edit.
+Follow the instructions to request your personal information.
+Non-registered eBay users (e.g. guest users) or eBay users with suspended accounts
+For non-registered eBay users and eBay users with suspended accounts, you may submit your request through our Privacy Center webform or email by clicking here.
+As outlined on our Privacy Center Contact Page, eBay is required to verify the identity of everyone to whom we release personal information. Please include your first name, last name, country of residence, and the email address you used for any guest transactions you made. Before fulfilling your data request, we’ll ask you for Proof Of Identity (POI) and Proof Of Address (POA) to ensure that we are only releasing personal information to authorized parties.
+The POI/POA you provide will be used solely for the purpose of identity verification related to this transaction (i.e. the release of personal information) and will be processed and stored in accordance with Section 7 of our User Privacy Notice.
+You may also contact Customer Service to submit your access request.
+Authorized agents
+If you are a registered agent and want to submit a request on behalf of a California consumer with a registered eBay account in good standing, you should work with the user to submit an access request directly through his or her account.
+If you are submitting a request on behalf of a person without a registered eBay account, you may submit the request through our Privacy Center webform or email by clicking here, and selecting “I am a third party making a request on behalf of a data subject.”
+You will need to provide POI and POA for the consumer on whose behalf you are submitting the request and proof that you are authorized to act on their behalf. Only after verifying both your authorization to act and proof of the requestor’s identity will we fulfill the request. Please note that the report containing a copy of the requestor’s personal data will be sent directly to the requestor at the email address he or she uses for eBay transactions.
+If the name, address, or email address you provide us for the requestor does not match what is in our records, we will not be able to process the request.
+5.2  Right to deletion
+
+The right to deletion
+Subject to some exceptions, California consumers have the right to request the deletion of the personal information we have collected from them. 
+Deletion requests may take between 30 and 60 days to fulfill (depending on whether you have recently sold on eBay as we must meet our commitment under eBay’s Money Back Guarantee policy). If we need more time or additional information to fulfill your request, we will write to let you know.
+How to exercise the right to deletion
+Registered eBay users with accounts in good standing
+If you are a registered eBay user with an account in good standing, you can submit a deletion request at any time through your eBay account. Your account will be closed as part of fulfilling your deletion request. We will verify you using your existing username and password prior to allowing you to make a request.
+Click here to submit your request. You can also learn more about deleting your data by visiting our Privacy Center Contact Page.
+Non-registered eBay users (e.g. guest users) or eBay users with suspended accounts
+For non-registered eBay users and eBay users with suspended accounts, you may submit your deletion request through our Privacy Center webform or email by clicking here. 
+As outlined on our Privacy Center Contact Page, eBay is required to verify the identity of everyone to whom we release personal information. Please include your first name, last name, country of residence, and the email address you used for any guest transactions you made. Before fulfilling your request, we’ll ask you for POI and POA to ensure that we are only deleting personal information for authorized parties.
+The POI/POA you provide will be used solely for the purpose of identity verification related to this transaction (i.e. the deletion of personal information) and will be processed and stored in accordance with Section 7 of our User Privacy Notice.
+You may also contact Customer Service to submit your deletion request.
+Authorized agents
+If you are a registered agent and want to submit a request on behalf of a California consumer with a registered eBay account in good standing, you should work with the user to submit a deletion request directly through his or her account.
+If you are submitting a request on behalf of a person without a registered eBay account, you may submit the request through our Privacy Center webform or email by clicking here and selecting “I am a third party making a request on behalf of a data subject.”
+You will need to provide POI/POA for the consumer on whose behalf you are submitting the request and proof that you are authorized to act on their behalf. Only after verifying both your authorization to act and proof of the requestor’s identity will we fulfill the request.
+If the name, address, or email address you provide us for the requestor does not match what is in our records, we will not be able to process the request.
+5.3  Right to opt-out
+
+The right to opt-out
+California consumers have the right to opt-out of any “sale” of their personal information. As mentioned, the CCPA’s definition of “sale” is broad and includes sharing practices common among online marketplaces. While, without your consent, eBay does not sell personal information for money, we do share information for a variety of other purposes, such as to tailor your online experience or provide more relevant advertisements to you.
+How to exercise the right to opt-out
+Registered eBay users with accounts in good standing
+Click here to go to our opt-out page where you can opt-out.
+Alternatively, you may submit your request through our Privacy Center webform or email by clicking here.
+Under “How can we help you?”, select “Other privacy request.”
+In the comment box, type “CCPA opt-out request.”
+In addition, you may contact Customer Service to submit your opt-out request.
+Non-registered eBay users (e.g. guest users) or eBay users with suspended accounts
+Click here to go to our opt-out page where you can opt-out.
+Important note for users without a registered eBay account: eBay is unable to permanently opt-out consumers who do not have a registered eBay account. When non-registered users opt-out by clicking the above link and setting the toggle switch to “out,” the opt-out choice will only apply to your use of eBay through the browser used to submit your opt-out request so long as that browser’s cookies are not erased.
+Authorized agents
+If you are a registered agent and want to submit an opt-out request on behalf of a registered eBay member, submit your request through our Privacy Center webform or email by clicking here. 
+Under “What is your relationship with eBay?”, select “I am a third party making a request on behalf of a data subject.”
+Under “How can we help you?”, select “Other privacy request.”
+Be sure to include the eBay username of the consumer for whom you are making the request.
+In the comment box, type “CCPA opt-out request.”
+If you are submitting an opt-out request on behalf of a person without a registered eBay account, go to the opt-out page on the person’s browser and set the toggle switch to “out.”
+As mentioned, eBay is unable to permanently opt-out consumers without a registered eBay account. Please inform the consumer for whom you are making the request that the opt-out choice will only apply to his or her use of eBay through the browser used to submit the request and only so long as that browser’s cookies are not erased.
+5.4  Right to non-discrimination
+
+A business may not discriminate against a California consumer because the consumer exercised their rights under CCPA. eBay does not use the fact that you have exercised, or requested to exercise, any CCPA rights for any purpose other than facilitating a response to your request.
+
+6.  Do Not Track
+
+California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. For more information about our privacy practices, please see our User Privacy Notice.
+
+7. California’s “Shine the Light” Law
+
+If you are a California resident, you are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of Personal Information to third parties for their direct marketing purposes in the preceding calendar year. eBay does not share personal information with third parties for their own direct marketing purposes without obtaining your consent or providing the ability to opt-out.
+
+8. Cookies
+
+We encourage you to manage your browser-based cookies by adjusting your settings. For more detailed information about our practices related to cookies, web beacons and similar technologies, please see our Cookies Policy.
+
+9. Security and Protection of Personal Information
+
+For more information on how we protect your personal information from unauthorized use and access, visit Section 10 of our User Privacy Notice.
+
+10. Changes
+
+We reserve the right to change this California Privacy Policy from time to time. Changes shall become effective on the date they are posted.
+
+11. Additional information / Contact Us
+
+If you have any questions about this California Privacy Policy, our global privacy standards, or our handling of personal data, you can find additional information and contact details for the eBay Privacy Team on our Privacy Center Contact Page.
